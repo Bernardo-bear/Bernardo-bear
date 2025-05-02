@@ -3,7 +3,7 @@
 🎓 Estudante de RH e apaixonado por tecnologia  
 💻 Atualmente focado em desenvolvimento front-end (HTML, CSS e JavaScript)  
 📍 Estagiário no INSS, aplicando conhecimento e buscando crescimento na área de tecnologia  
-🗣️ Falando Português 🇧🇷 | Aprendendo Inglês 🇺🇸  
+🗣️ Falando Português 🇧🇷 | ingles intermediario  🇺🇸  
 🚀 Em constante aprendizado!
 
 ---
