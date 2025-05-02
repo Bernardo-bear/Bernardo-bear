@@ -1,16 +1,23 @@
-## Hi there 👋
+### Olá! Eu sou o Bernardo Lima Turques 👋
 
-<!--
-**Bernardo-bear/Bernardo-bear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de RH e apaixonado por tecnologia  
+💻 Atualmente focado em desenvolvimento front-end (HTML, CSS e JavaScript)  
+📍 Estagiário no INSS, aplicando conhecimento e buscando crescimento na área de tecnologia  
+🗣️ Falando Português 🇧🇷 | Aprendendo Inglês 🇺🇸  
+🚀 Em constante aprendizado!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias que estou estudando
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 📫 Contato
+[![Email](https://img.shields.io/badge/Gmail-bernardhs369@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bernardhs369@gmail.com)
+
+---
+
+🔧 Em breve: repositórios com meus primeiros projetos em front-end!
