@@ -8,9 +8,9 @@
 
 ---
 
-[Bernardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardoturques&show_icons=true&theme=tokyonight)
+[Bernardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bernardo-bear&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoturques&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-bear&layout=compact&theme=tokyonight)
 
 ##
 
