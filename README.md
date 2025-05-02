@@ -8,11 +8,7 @@
 
 ---
 
-[Bernardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bernardo-bear&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-bear&layout=compact&theme=tokyonight)
-
-##
 
 ### 🛠️ Tecnologias que estou estudando
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
